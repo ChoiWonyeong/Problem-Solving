@@ -1,3 +1,5 @@
+# 2020/11/28
+# 39분 48초
 from collections import defaultdict
 def solution(prices):
     answer = [0 for i in range(len(prices))]
