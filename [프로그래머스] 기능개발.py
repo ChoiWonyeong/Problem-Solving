@@ -1,3 +1,5 @@
+# 2020/11/29
+
 import math
 from collections import deque
 def solution(progresses, speeds):
